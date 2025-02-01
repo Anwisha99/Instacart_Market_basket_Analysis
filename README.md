@@ -5,6 +5,9 @@ This repository contains code and resources for the Instacart Market Basket Anal
 Instacart provides a dataset of 3 million grocery orders from over 200,000 users. The goal of this competition is to analyze purchase patterns using SQL.
 
 ## Dataset
+
+Link: https://www.kaggle.com/c/instacart-market-basket-analysis/data
+
 The dataset consists of multiple CSV files containing information on user orders, products, and purchase history:
 
 orders.csv: Order history for users
